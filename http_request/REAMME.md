@@ -1,0 +1,2 @@
+部分payload来自HDiff项目
+http请求的raw格式，可以用nuclei直接发包进行fuzz测试
